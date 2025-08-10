@@ -49,7 +49,6 @@ git clone https://github.com/Prathamesh-PM/Ecommerce-Website.git
 ### Navigate to the project directory:
 ```
 cd eCommerce Application
-
 ```
 
 This will get a copy of the project installed locally. To configure all of its dependencies and start each app, follow the instructions below.
@@ -79,8 +78,7 @@ mvnw spring-boot:run
 ## API Root Endpoint with Swagger Documentation
 
 ```
-### https://localhost:8080/
-
+https://localhost:8080/
 ```
 
 - To Get Access as admin , you have to use below query for register the admin for the first time in MySQL databse folling are details below
