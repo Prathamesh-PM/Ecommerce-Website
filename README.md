@@ -44,7 +44,7 @@ To install this application, run the following commands:
 
 ### Clone the project repository:
 ```bash
-git clone https://github.com/Vivekgupta96/eCommerce-Application.git
+git clone https://github.com/Prathamesh-PM/Ecommerce-Website.git
 ```
 ### Navigate to the project directory:
 ```
@@ -73,7 +73,6 @@ In the file `application.configure` you must edit the parameters `spring.datasou
 ## Build and run the Spring Boot application using CMD
 ```
 mvnw spring-boot:run
-```
 ```
 
 
@@ -140,7 +139,7 @@ Open your web browser and navigate to the following URL:
 
 ```
 http://localhost:3000
-
+```
 
 You should now see the React frontend of the Ecommerce Application running locally.
 
